@@ -17,3 +17,11 @@ questions.
 10. Store signup data using PHP and MySQL.
 11. Retrieve and sort records by age.
 12. Edit and Delete records with JavaScript confirmation.
+
+## Technologies Used
+
+-   HTML5
+-   CSS3
+-   JavaScript
+-   PHP
+-   MySQL
