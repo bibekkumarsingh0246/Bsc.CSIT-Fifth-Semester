@@ -21,7 +21,15 @@ All programs are implemented in **Python** for clarity, modularity, and ease of 
 
 ### Statistical Testing  
 9. Kolmogorov-Smirnov (KS) Test for Uniformity  
-10. Chi-Square Test for Uniformity  
+10. Chi-Square Test for Uniformity
+ ## GPSS Simulations
+
+![GPSS Simulations](images/gpss-simulations.png)
+
+11. GPSS Simulation: Implementing Basic Queueing System using Python  
+12. GPSS Simulation: Implementing TV Repair Problem  
+13. GPSS Simulation: Implementing Turnstile Problem  
+14. GPSS Simulation: Periodic Inventory System
 
 ## 🔧 Technology Stack  
 - **Language:** Python 3.x  
@@ -30,7 +38,8 @@ All programs are implemented in **Python** for clarity, modularity, and ease of 
   - `matplotlib` (visualization)  
   - `scipy` (statistical testing)  
   - `random`, `math` (basic functions)  
-
+ **Modeling Language:** GPSS (General Purpose Simulation System)
+- **Development Environment:** GPSS World Student Software
 ## 📌 Notes  
 - Each lab program is saved as a separate Python file (e.g., `lab2.py`, `lab3.py`).  
 - The README provides a structured overview for quick navigation.  
